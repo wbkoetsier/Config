@@ -1,0 +1,16 @@
+[user]
+        email = me at some email provider
+        name = my name
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
+        lol = log --graph --decorate --pretty=oneline --abbrev-commit
+        lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+        sl = stash list --format='%gd (%cr): %gs'
+[color]
+        branch = auto
+        diff = auto
+        interactive = auto
+        status = auto
