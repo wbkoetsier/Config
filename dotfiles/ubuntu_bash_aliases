@@ -1,0 +1,5 @@
+alias sudo='sudo '
+alias ll='ls -lah'
+alias la='ls -lah'
+alias rmlatexfiles='rm *.aux *.log *.out *.backup'
+
